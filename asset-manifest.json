@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Havenly/static/css/main.1deeeeb9.css",
-    "main.js": "/Havenly/static/js/main.d37bb00d.js",
+    "main.css": "/Havenly/static/css/main.2acbaa69.css",
+    "main.js": "/Havenly/static/js/main.9e6850ce.js",
     "static/js/453.18cd7ebe.chunk.js": "/Havenly/static/js/453.18cd7ebe.chunk.js",
     "static/media/jpeg": "/Havenly/static/media/a987d49a455a867066d8d36ef4dc2369.b5c3d7f28389e0059169.jpeg",
     "index.html": "/Havenly/index.html",
-    "main.1deeeeb9.css.map": "/Havenly/static/css/main.1deeeeb9.css.map",
-    "main.d37bb00d.js.map": "/Havenly/static/js/main.d37bb00d.js.map",
+    "main.2acbaa69.css.map": "/Havenly/static/css/main.2acbaa69.css.map",
+    "main.9e6850ce.js.map": "/Havenly/static/js/main.9e6850ce.js.map",
     "453.18cd7ebe.chunk.js.map": "/Havenly/static/js/453.18cd7ebe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1deeeeb9.css",
-    "static/js/main.d37bb00d.js"
+    "static/css/main.2acbaa69.css",
+    "static/js/main.9e6850ce.js"
   ]
 }
